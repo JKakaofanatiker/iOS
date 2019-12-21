@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/J_Kakaofanatiker</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/JKakaofanatiker</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</footerlinks>
+</repo>

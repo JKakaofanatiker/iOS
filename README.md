@@ -9,5 +9,5 @@ none
 
 Progress
 
-Sad iPhone Theme:
+Pixel iPhone Theme:
 [                        ] 0%
